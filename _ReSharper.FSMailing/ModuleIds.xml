@@ -1,7 +1,0 @@
-<Modules>
-  <Module PersistentId="1A6058F9-22EA-4DEF-9C49-B5DF5AC51D66" ModuleId="FSMailing" />
-  <Module PersistentId="362E7E0B-C85B-4EDC-86FB-499A21031353" ModuleId="FSMailing.Core" />
-  <Module PersistentId="56821283-4DF5-494A-91F7-85BCE210B411" ModuleId="FSMailing.Web" />
-  <Module PersistentId="93756C38-7916-43FA-8517-7D559A89127E" ModuleId="FSMailing.Test" />
-  <Module PersistentId="0A5B211E-BD12-4B71-841E-4DA9654DDE40" ModuleId="FSMailing.Test_1" />
-</Modules>
