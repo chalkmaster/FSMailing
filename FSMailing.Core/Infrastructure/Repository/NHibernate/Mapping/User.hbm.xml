@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="FSMailing.Core" namespace="FSMailing.Core.DomainObjects">
+  
+  <class name="FSMailing.Core.DomainObjects.User">
+    
+    <cache usage="nonstrict-read-write" region="LongTerm" />
+
+    <id name="Id" type="int" unsaved-value="0">
+      <column name="Id" sql-type="integer" not-null="true"/>
+      <generator class="identity" />
+    </id>
+
+    <property name="CreatedAt">
+      <column name="CreatedAt" sql-type="datetime" length="100" not-null="true" />
+    </property>
+    
+    <property name="Login">
+      <column name="Login" sql-type="varchar(255)" length="255" not-null="true" unique="true"/>
+    </property>
+
+    <property name="Password">
+      <column name="Password" sql-type="varchar(255)" length="255" not-null="true" />
+    </property>
+    
+  </class>
+  
+</hibernate-mapping>

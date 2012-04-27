@@ -1,0 +1,64 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/f:XmlSerializable.cs" caret="1061" fromTop="11" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/f:Global.asax.cs" caret="853" fromTop="15" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Models/f:MailingModel.cs" caret="335" fromTop="12" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Content/f:Site.css" caret="235" fromTop="10" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:DomainObjects/f:HostMail.cs" caret="0" fromTop="0" />
+    <File id="1A6058F9-22EA-4DEF-9C49-B5DF5AC51D66/f:hibernate.cfg.xml" caret="963" fromTop="17" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/f:PersistentEntity.cs" caret="78" fromTop="4" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:DomainObjects/f:Recipient.cs" caret="113" fromTop="3" />
+    <File id="0A5B211E-BD12-4B71-841E-4DA9654DDE40/f:RecipientRepositoryTest.cs" caret="800" fromTop="7" />
+    <File id="0A5B211E-BD12-4B71-841E-4DA9654DDE40/f:GenerateSchema.cs" caret="575" fromTop="12" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:Recipient.hbm.xml" caret="293" fromTop="6" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/f:NewsSenderManager.cs" caret="310" fromTop="12" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/f:Web.config" caret="598" fromTop="13" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:SMTP/f:SMTPClient.cs" caret="1050" fromTop="23" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:DomainObjects/f:User.cs" caret="246" fromTop="10" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/f:RecipientRepository.cs" caret="0" fromTop="0" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:User.hbm.xml" caret="735" fromTop="19" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="322" fromTop="11" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/f:PersistenceHelper.cs" caret="1072" fromTop="22" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/f:UserRepository.cs" caret="346" fromTop="11" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Views/d:Mailing/f:Login.aspx" caret="285" fromTop="11" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="668" fromTop="24" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Extensions/f:StringExtension.cs" caret="203" fromTop="8" />
+    <File id="1A6058F9-22EA-4DEF-9C49-B5DF5AC51D66/f:Program.cs" caret="2383" fromTop="18" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/f:MailHosts.xml" caret="405" fromTop="10" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Controllers/f:MailingController.cs" caret="2313" fromTop="9" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Views/d:Mailing/f:Index.aspx" caret="0" fromTop="0" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Models/f:LoginModel.cs" caret="438" fromTop="18" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="473" fromTop="4" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="1070" fromTop="20" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="1264" fromTop="26" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="1400" fromTop="30" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="898" fromTop="24" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="994" fromTop="26" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="1997" fromTop="28" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Controllers/f:MailingController.cs" caret="509" fromTop="18" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Controllers/f:MailingController.cs" caret="766" fromTop="15" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Controllers/f:MailingController.cs" caret="1900" fromTop="14" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Controllers/f:MailingController.cs" caret="2978" fromTop="14" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Controllers/f:MailingController.cs" caret="2862" fromTop="20" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="1733" fromTop="25" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="1602" fromTop="21" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="1447" fromTop="19" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Infrastructure/d:Security/f:AuthContext.cs" caret="967" fromTop="17" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Controllers/f:MailingController.cs" caret="2848" fromTop="26" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/f:PersistenceHelper.cs" caret="1072" fromTop="22" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Views/d:Mailing/f:Login.aspx" caret="88" fromTop="0" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Views/d:Mailing/f:Login.aspx" caret="606" fromTop="17" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Models/f:LoginModel.cs" caret="133" fromTop="4" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Models/f:LoginModel.cs" caret="379" fromTop="15" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Views/d:Mailing/f:Login.aspx" caret="487" fromTop="16" />
+    <File id="362E7E0B-C85B-4EDC-86FB-499A21031353/d:Infrastructure/d:Repository/d:NHibernate/f:UserRepository.cs" caret="506" fromTop="16" />
+    <File id="1A6058F9-22EA-4DEF-9C49-B5DF5AC51D66/f:Program.cs" caret="1269" fromTop="29" />
+    <File id="1A6058F9-22EA-4DEF-9C49-B5DF5AC51D66/f:Program.cs" caret="2164" fromTop="27" />
+    <File id="1A6058F9-22EA-4DEF-9C49-B5DF5AC51D66/f:Program.cs" caret="1898" fromTop="17" />
+    <File id="1A6058F9-22EA-4DEF-9C49-B5DF5AC51D66/f:Program.cs" caret="2333" fromTop="25" />
+    <File id="1A6058F9-22EA-4DEF-9C49-B5DF5AC51D66/f:Program.cs" caret="667" fromTop="19" />
+    <File id="56821283-4DF5-494A-91F7-85BCE210B411/d:Controllers/f:MailingController.cs" caret="2652" fromTop="19" />
+  </RecentEdits>
+</RecentFiles>
